@@ -1,5 +1,5 @@
 # cryptolot7
-Written in C++ for Arduino, it generates private and public keys, encodes them into Bitcoin addresses, and checks for associated values. LEDs provide visual feedback, serving as an educational tool for cryptography.
+Written in C++ for Arduino ESP8266, it generates private and public keys, encodes them into Bitcoin addresses, and checks for associated values. LEDs provide visual feedback, serving as an educational tool for cryptography.
 
 This code is an analogy to a crypto lottery, which has a negligible but existent chance of guessing the private key of Bitcoin addresses from a list of abandoned ones. It is written in C++ for the Arduino platform and performs several functions related to generating Bitcoin addresses and searching for values associated with those addresses.
 
